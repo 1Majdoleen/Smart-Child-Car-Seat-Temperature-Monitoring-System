@@ -82,3 +82,14 @@ Possible improvements for a future version include:
 ## Project Status
 
 Completed prototype.
+
+## Project Images
+
+### Prototype
+![Prototype](circuit-setup.JPG)
+
+### Temperature Monitoring Output
+![Temperature Monitoring Output](code-and-temperature-output.JPG)
+
+### Concept Illustration
+![Concept Illustration](concept-illustration.PNG)
