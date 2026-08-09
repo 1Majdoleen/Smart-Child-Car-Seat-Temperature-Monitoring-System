@@ -2,7 +2,7 @@
 
 ## Project Idea
 
-The idea for this project came while looking for a real-world problem that could be addressed using IoT technologies.
+The idea for this project came while looking for a real-world problem that could be addressed using embedded systems and hardware prototypes⁠.
 
 I was reminded of a concern raised by a family member about temperature around child seats in cars, particularly in rear seats where airflow may not reach the child as effectively as it does the front seats.
 
@@ -10,7 +10,7 @@ This led to the idea of developing a prototype that monitors the temperature aro
 
 The system also includes a DC motor to simulate a ventilation fan. The idea is that increased airflow around the child seat could help reduce heat buildup in the area when the temperature becomes high.
 
-The project is not intended to replace a vehicle's air-conditioning system or provide complete cooling. Instead, it explores how a simple IoT system could monitor temperature, provide an easy-to-understand warning, and trigger a ventilation mechanism when the temperature reaches a high range.
+The project is not intended to replace a vehicle's air-conditioning system or provide complete cooling. Instead, it explores how a simple embedded system could⁠ monitor temperature, provide an easy-to-understand warning, and trigger a ventilation mechanism when the temperature reaches a high range.
 
 ## Temperature Research
 
